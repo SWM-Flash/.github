@@ -4,8 +4,7 @@
 
 함께 만드는 클라이밍 답지 앱, [Flash](https://linktr.ee/climb_flash)를 서비스하고 있습니다.
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/be887e95-9f32-4dde-83d7-0caef30a7b4b">
-
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/92c92fdb-6ea1-48af-9163-5d1c5eca36b5">
 
 ## 팀원
 
